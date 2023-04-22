@@ -1,7 +1,6 @@
-```
-This repository is connected with https://github.com/Sddilora/onineShopping_web_page,
+
+This repository is connected with [Django app](https://github.com/Sddilora/onineShopping_web_page),
 We have decided to use React for the frontend part of our web application.
-```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
