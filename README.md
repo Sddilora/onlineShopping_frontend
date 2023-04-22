@@ -1,5 +1,6 @@
 ```
-This repository is connected with https://github.com/Sddilora/onineShopping_web_page, We have decided to use React for the frontend part of our web application.
+This repository is connected with https://github.com/Sddilora/onineShopping_web_page,
+We have decided to use React for the frontend part of our web application.
 ```
 # Getting Started with Create React App
 
